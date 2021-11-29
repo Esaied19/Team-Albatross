@@ -1,25 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T20:24:30.147Z" agent="5.0 (Windows)" etag="sAhefP9jsgpEHYn3a0hO" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T20:53:40.155Z" agent="5.0 (Windows)" etag="eGnXwSoMhpcqkwGq6XJA" version="15.8.7" type="github">
   <diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">
-    <mxGraphModel dx="1543" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value=":System" style="html=1;" parent="1" vertex="1">
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value="&lt;u&gt;:System&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="620" as="sourcePoint" />
-            <mxPoint x="165" y="220" as="targetPoint" />
+            <mxPoint x="164.71" y="620" as="sourcePoint" />
+            <mxPoint x="164.71" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="654" y="620" as="sourcePoint" />
             <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="310" as="sourcePoint" />
+            <mxPoint x="170" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-3" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Display the Steps Screen, Retrieves steps tracked automatically from the phone&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HUZn96XeafT8EaWSQdzz-2">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-4" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="250" as="sourcePoint" />
+            <mxPoint x="650" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-5" value="&lt;font face=&quot;Georgia&quot;&gt;goToStepsScreen()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HUZn96XeafT8EaWSQdzz-4">
+          <mxGeometry x="0.0279" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="430" as="sourcePoint" />
+            <mxPoint x="649.9999999999998" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-8" value="&lt;font face=&quot;Georgia&quot;&gt;calculateCalories()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HUZn96XeafT8EaWSQdzz-7">
+          <mxGeometry x="0.0279" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="370" as="sourcePoint" />
+            <mxPoint x="649.9999999999998" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-10" value="&lt;font face=&quot;Georgia&quot;&gt;Type()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HUZn96XeafT8EaWSQdzz-9">
+          <mxGeometry x="0.0279" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-11" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="649.9999999999998" y="490" as="sourcePoint" />
+            <mxPoint x="170" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HUZn96XeafT8EaWSQdzz-12" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Displays the calories burned, Exercise Log updated&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HUZn96XeafT8EaWSQdzz-11">
+          <mxGeometry x="-0.025" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
