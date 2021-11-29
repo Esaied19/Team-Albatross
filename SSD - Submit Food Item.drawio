@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T21:17:13.194Z" agent="5.0 (Windows)" etag="1jMnFDINlB8mpvwyqjLL" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T21:28:33.111Z" agent="5.0 (Windows)" etag="wkSpM2uqmlyzj2103i8z" version="15.8.7" type="github">
   <diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">
-    <mxGraphModel dx="1710" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,6 +20,75 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="654" y="620" as="sourcePoint" />
             <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-1" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Food Suggestions Screen is Displayed&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-2" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-4" value="&lt;font face=&quot;Georgia&quot;&gt;goToFoodScreen1()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5Yw9LY-AuXsBXbNcG6X-2">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-5" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="340.0000000000001" as="sourcePoint" />
+            <mxPoint x="650" y="340.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-6" value="&lt;font face=&quot;Georgia&quot;&gt;displayFoodDropDown()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5Yw9LY-AuXsBXbNcG6X-5">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-8" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Displays a list of foods to select&lt;/span&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="390" as="sourcePoint" />
+            <mxPoint x="170" y="390.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-9" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;dish selection is save&lt;/span&gt;d&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0213" width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="480" as="sourcePoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-10" value="&lt;font style=&quot;font-size: 10px&quot; face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Georgia&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Food choice is saved, Page detailing a suggested dish and it&#39;s benefits displayed, &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot; face=&quot;Georgia&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Calories from dish are recorded and added to the daily intake&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="540" as="sourcePoint" />
+            <mxPoint x="170" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-13" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="510" as="sourcePoint" />
+            <mxPoint x="650" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-14" value="&lt;font face=&quot;Georgia&quot;&gt;submitSelectedDish()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5Yw9LY-AuXsBXbNcG6X-13">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="440.0000000000001" as="sourcePoint" />
+            <mxPoint x="650" y="440.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-16" value="&lt;font face=&quot;Georgia&quot;&gt;selectDish(foodItem)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w5Yw9LY-AuXsBXbNcG6X-15">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
