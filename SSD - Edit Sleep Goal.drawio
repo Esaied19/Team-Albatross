@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T22:28:57.521Z" agent="5.0 (Windows)" etag="sZdI3CYXXgyhu5um731p" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T22:32:50.468Z" agent="5.0 (Windows)" etag="4pqFImJdwt-iJ_4k_WN0" version="15.8.7" type="github">
   <diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">
     <mxGraphModel dx="1425" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             <mxPoint x="170" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-8" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Prompts for new Sleep goal or Change Time Slept&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-7">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-8" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Prompts for new Sleep goal and Change Time Slept&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-7">
           <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
             <mxPoint x="-28" y="-3" as="offset" />
           </mxGeometry>
