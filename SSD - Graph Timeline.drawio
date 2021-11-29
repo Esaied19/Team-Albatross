@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T20:24:38.363Z" agent="5.0 (Windows)" etag="ktEY2HBx8F7if60ANTlu" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T22:15:49.950Z" agent="5.0 (Windows)" etag="LqY8eZuRlGPsPldz0Uxt" version="15.8.7" type="github">
   <diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">
     <mxGraphModel dx="1710" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,19 +7,97 @@
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value=":System" style="html=1;" parent="1" vertex="1">
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value="&lt;u&gt;:System&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="620" as="sourcePoint" />
+            <mxPoint x="165" y="550" as="sourcePoint" />
             <mxPoint x="165" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="654" y="620" as="sourcePoint" />
+            <mxPoint x="654" y="540" as="sourcePoint" />
             <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-1" value="goToTimelineTab()" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="250" as="sourcePoint" />
+            <mxPoint x="650" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-2" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="330" as="sourcePoint" />
+            <mxPoint x="650" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-13" value="selectDate()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AAobWc8_bwBVRMLtWjXy-2">
+          <mxGeometry x="0.0583" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="410" as="sourcePoint" />
+            <mxPoint x="650" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-15" value="selectTimespan()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AAobWc8_bwBVRMLtWjXy-3">
+          <mxGeometry x="-0.0833" y="1" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-4" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="480" as="sourcePoint" />
+            <mxPoint x="650" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-17" value="graphHealthData(date, timespan)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AAobWc8_bwBVRMLtWjXy-4">
+          <mxGeometry x="0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-6" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-11" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Displays &#39;Timeline&#39; tab&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AAobWc8_bwBVRMLtWjXy-6">
+          <mxGeometry x="0.0708" y="-2" relative="1" as="geometry">
+            <mxPoint x="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="370" as="sourcePoint" />
+            <mxPoint x="170" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-14" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Displays health data from that day&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AAobWc8_bwBVRMLtWjXy-7">
+          <mxGeometry x="-0.0708" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-8" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Displays health data during that timespan&lt;/span&gt;" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="450" as="sourcePoint" />
+            <mxPoint x="170" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="520" as="sourcePoint" />
+            <mxPoint x="170" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAobWc8_bwBVRMLtWjXy-18" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Graph generated&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AAobWc8_bwBVRMLtWjXy-9">
+          <mxGeometry x="0.0542" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
