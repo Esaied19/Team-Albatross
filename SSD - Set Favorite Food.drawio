@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-12-01T04:30:04.111Z" agent="5.0 (Windows)" etag="VbgEKrSJwUDhbAEpb_QP" version="15.8.8" type="github"><diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">7VlLc9s2EP4tPXDGOSjDh0jJR9G2nEOa8dTt1DmCBESiAQkWBC2pv74LEhSflpxETOLEPtjAh8UC+PaBBW04V8nuVqAs/p1jwgzbxDvDuTZs+3KxgN8K2FfAfDmvgEhQXEFWA9zT/4gGTY0WFJO8Iyg5Z5JmXTDkaUpC2cGQEHzbFdtw1l01QxEZAPchYkP0b4plXKFL12zwd4RGcb2yZeqRBNXCGshjhPm2BTk3hnMlOJdVK9ldEaa4q3mp5q2fGD1sTJBUPmfCZnaLgxv5xyK+e7dmGfb/+RDM7ErLI2KFPvBfORF6w3JfswB7z1SzSNgqlFwYjv9IhKTA03sUEHbHcyopT0Ek4FLypCWwYjRSA5JngMYyYdCxoDk8gD6Tmkl2LUgf6JbwhEixB5F6tLaD9i7L0f1tY6sailtm8jSGtHdEB80NgdDQHH4Gn86AT8P2GKzqF9CIVMNwVvf7XJKkHoGFmsE+8+flyzN7fM2HfFnWCGHuVIR5I4T1KCApXqlIhl7KUwB9jPKYYE1LiyHBixSXA+YxvgjuxPyQrRYb7hEyBGFI0sduphhjSK9wxynspHFez+0Yw7N7JOe8ECHRs9qRfUKR3VckkYiIHCgqDXY49pfbcPHr2tBz5+exISh6O4fLo/6xunF6OZlFt+7H7eX7j7NV8ZD7D8GH8NZ7mFkjFq2S1YaXu96gsBrw/i3UBebDoiKiqAGajFZNDEQfyTOUdryknqrWmOVlKbACAcvJdvCnnAn3PFPXj8JFFFyYasCGQ5qt1puDdKlpq82u5qRcJIgdxiFtyhkmIReour4qGXDQjga9xbaC/jHXnGMYvi+iiORKV656oSBEnZGq3jXNM4b24NtN4q84OMXUEIGplSWeuDZa8cYz2ILjA7KmrI4y6Olay7Injz/LO1ewdW8vux8Vz06YixOKJg6vYdV1zIAB4+GnfsZszGm+VHMOrDD/4tx5QtHE5pyfL1tG/E+uUkmVOayLN88OeDBgWYp3zY908R2CwUm7bK+r8oRirHT4gkDGRUGpT7lKptgq+XN9w70edZ6jzt0vSg9vNL2I0X4GjRWr5lvTWdpdy36d49UifLPJySSu4L5G9khkO3OwpTkobr42zk+onTjqhy8Xnl4xGn66Y0WuAveHjdDaSX/JCF2ev7T9qQpZXaWqghWObDKaK1L4plTBscIlV6clTH1vO17KvpapKk2dq0wFRd8x312eL3DAx+L6VbRBj1xQ2byKXuJjp8mHtqU/AX4Dx5ovz+RYA0VPuNK3zNPWayk1aqppSqkTaqf+3DT2FbiTW555tzaJ5rOucb+8z+RapyL1ALv4jeZ1/wU+wqyftMaDbvMfs0q8+bejc/M/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-01T04:42:08.793Z" agent="5.0 (Windows)" etag="d6pA4I8jydqWUxaYyp2T" version="15.8.8" type="github">
+  <diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">
+    <mxGraphModel dx="1710" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value="&lt;u&gt;:System&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="530" as="sourcePoint" />
+            <mxPoint x="165" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="530" as="sourcePoint" />
+            <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-1" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Food Suggestions Screen is Displayed&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-2" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-4" value="&lt;font face=&quot;Georgia&quot;&gt;goToFoodScreen1()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w5Yw9LY-AuXsBXbNcG6X-2" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-5" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="340.0000000000001" as="sourcePoint" />
+            <mxPoint x="650" y="340.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-6" value="onClickPlus()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w5Yw9LY-AuXsBXbNcG6X-5" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-8" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Displays a list of foods to select&lt;/span&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="390" as="sourcePoint" />
+            <mxPoint x="170" y="390.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-9" value="&lt;font face=&quot;Georgia&quot;&gt;Dish is favorited&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0213" width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="480" as="sourcePoint" />
+            <mxPoint x="170" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-15" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="440.0000000000001" as="sourcePoint" />
+            <mxPoint x="650" y="440.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w5Yw9LY-AuXsBXbNcG6X-16" value="&lt;font style=&quot;font-size: 13px&quot; face=&quot;Georgia&quot;&gt;+ setFavoriteFood(!isFavorite)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w5Yw9LY-AuXsBXbNcG6X-15" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
