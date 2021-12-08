@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T18:44:23.351Z" agent="5.0 (Windows)" etag="4p9kgqAtOoacTzMpV4tt" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T18:45:35.458Z" agent="5.0 (Windows)" etag="w1Jvv8fVccXG6hinR2Kp" version="15.9.1" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="2089" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2583" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
         <mxCell id="78961159f06e98e8-90" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="78961159f06e98e8-82" vertex="1">
           <mxGeometry y="238" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="jcwWzEDZe-sVqDsmQi-z-5" value="+ ExerciseLog(date, Exercise)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-82" vertex="1">
+        <mxCell id="jcwWzEDZe-sVqDsmQi-z-5" value="+ ExerciseLog(date, Exercise) : ExerciseLog" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-82" vertex="1">
           <mxGeometry y="246" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-91" value="+ calCalories() : caloriesBurned" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-82" vertex="1">
@@ -768,7 +768,7 @@
         <mxCell id="l7NwB3zwiUPL4xgGxpcN-10" value="" style="line;html=1;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=default;labelBackgroundColor=default;fontColor=default;" vertex="1" parent="l7NwB3zwiUPL4xgGxpcN-5">
           <mxGeometry y="182" width="310" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="l7NwB3zwiUPL4xgGxpcN-11" value="+ Graph(SleepPoints, SleepTimePoints, CalorieConsumedPoints, CalorieConsumedTimePoints, CaloriesBunredTime, CaloriesBurnedTimePoints)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="l7NwB3zwiUPL4xgGxpcN-5">
+        <mxCell id="l7NwB3zwiUPL4xgGxpcN-11" value="+ Graph(SleepPoints, SleepTimePoints, CalorieConsumedPoints, CalorieConsumedTimePoints, CaloriesBunredTime, CaloriesBurnedTimePoints) : Graph" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="l7NwB3zwiUPL4xgGxpcN-5">
           <mxGeometry y="190" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
