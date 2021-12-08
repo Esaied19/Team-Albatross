@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T19:02:38.534Z" agent="5.0 (Windows)" etag="b1-XUfJGWFUTERTSZPes" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T19:10:27.557Z" agent="5.0 (Windows)" etag="ebcrTQQuv5zBksKGU-ib" version="15.9.1" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="2321" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -177,29 +177,29 @@
         <mxCell id="WzHxoFITkYfUiTCiZJOr-2" value="+ getCaloriesConsumed(): float" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
           <mxGeometry y="344" width="230" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Tv3rZ9RlZa38RIR3jWLz-13" value="&lt;div&gt;+ setCaloriesConsumed&lt;/div&gt;&lt;div&gt;(&lt;i&gt;User.&lt;/i&gt;getCurrentCalorieGoal)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="370" width="230" height="44" as="geometry" />
+        <mxCell id="Tv3rZ9RlZa38RIR3jWLz-13" value="&lt;div&gt;+ setCaloriesConsumed(float)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
+          <mxGeometry y="370" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tkDhvR75LqSPMRQj_x5Y-37" value="+ getCalorieLimit(): float" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="414" width="230" height="26" as="geometry" />
+          <mxGeometry y="400" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Tv3rZ9RlZa38RIR3jWLz-22" value="+ setCalorieLimit(user.GetCalorieLimit())" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="440" width="230" height="26" as="geometry" />
+          <mxGeometry y="426" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tkDhvR75LqSPMRQj_x5Y-31" value="+ getTimeToEat(): time" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="466" width="230" height="26" as="geometry" />
+          <mxGeometry y="452" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="tkDhvR75LqSPMRQj_x5Y-26" value="+ setTimeToEat(time)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="492" width="230" height="26" as="geometry" />
+          <mxGeometry y="478" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Tv3rZ9RlZa38RIR3jWLz-26" value="+ getMealType(): String" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="518" width="230" height="26" as="geometry" />
+          <mxGeometry y="504" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Tv3rZ9RlZa38RIR3jWLz-27" value="+ setMealType(String)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=default;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="544" width="230" height="26" as="geometry" />
+          <mxGeometry y="530" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-53" value="&lt;font style=&quot;font-size: 12px&quot;&gt;+ feedback (caloriesConsumed, calorieLimit): String&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="570" width="230" height="40" as="geometry" />
+          <mxGeometry y="556" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-56" value="Food" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;strokeColor=default;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-930" y="690" width="370" height="644" as="geometry" />
