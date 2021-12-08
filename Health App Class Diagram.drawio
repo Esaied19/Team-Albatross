@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T20:28:01.558Z" agent="5.0 (Windows)" etag="JrgbzWDWzoun4yi-z5Wv" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T20:28:36.735Z" agent="5.0 (Windows)" etag="jEQOD8sZxTd7qEeL0lxg" version="15.9.1" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1816" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -216,7 +216,7 @@
         <mxCell id="WzHxoFITkYfUiTCiZJOr-8" value="- nutrients[]: float[]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-56" vertex="1">
           <mxGeometry y="130" width="370" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="l7NwB3zwiUPL4xgGxpcN-29" value="- recommendNutrients[]: float[]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="78961159f06e98e8-56">
+        <mxCell id="l7NwB3zwiUPL4xgGxpcN-29" value="&lt;i&gt;- recommendNutrients[]: float[]&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="78961159f06e98e8-56">
           <mxGeometry y="154" width="370" height="24" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-58" value="- foodBenefits: String" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-56" vertex="1">
