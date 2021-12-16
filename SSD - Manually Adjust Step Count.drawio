@@ -1,1 +1,104 @@
-<mxfile host="Electron" modified="2021-12-07T01:53:38.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.8.7 Chrome/91.0.4472.164 Electron/13.6.2 Safari/537.36" etag="nWjCxHyxzeT4BNNEwve0" version="15.8.7" type="device"><diagram id="Slg3FtTxpxhqsiVsLoyU" name="Page-1">7Vrbcts2EP0aziQPzvAiUsqjLrH7kDaZKG4eOxAJUahBggUgS8rXZ0ECvEqW7ZCeRLXHY5MLYEGes2exgGR582R/w1G2+ZNFmFquHe0tb2G5rmO7rqV+7ehQWCa2UxhiTiLdqTIsyXdsRmrrlkRYNDpKxqgkWdMYsjTFoWzYEOds1+y2ZrQ5a4Zi3DEsQ0S71m8kkhv9Fr5d2f/AJN6YmR1btyTIdNYGsUER29VM3gfLm3PGZHGV7OeYKvAMLsW46xOt5YNxnMrHDBj/ffMPX4w/fftyM3XijRh9vLu90l7uEd3qF74VmOsHlgeDAjx7pi63CZ2GknHLm91jLgng9BGtMP3MBJGEpdBlxaRkSa3DlJJYNUiWgXUjEwo3DlzqqaEb3p98J6dECkIMswRLfoAuZoDhQUeX4+n7XcWVMW1qNAXahnR0xKXnCkC40Bg+AU+3g6flBhRmnW3hIlYXljddHoTEiWmBiarGNvL94hXYLbxGXbwc5whg/lCAeUcAa0GA02iqlAx3KUvBOIuQ2OBIw1JDiLNtGuUNdokXjjoCP4tWDQ3/ATA4pkiS+6b7YwjpGT4zAhNXwRv4DTICtwWyYFseYj2qruwzjty2I4l4jGXHUU5Y+drP53D0/+Uw8Ef9cAiO3o1g8TA/TlOn71+WUf9kGluz/KnXKCwagv+2agGbwaQ8JqgymIw2Bz6lgCHLkGOcwsWCiIyigzAuV7zKfmVGLOY5kRRr0cQy8OnNwHJNqIkhuNOVhOMOHl1O0FcoNXOz2+b80elgfMbRwMETPCkdrCgL79r5oKLT/l3p7LAwenZmOONoYDrH/eWCmH1lRT4oksGbt49WPJCaV5pN/pGuLUMgGNerUlN0JiSKlI8Zx4J8R6vcn4qVTMGVA+jPLH/xUHmltxZ6sFWurvW4Oi2Ek7WY/c72Jm6T2p+LPNOFrdcCDxILk1dpH5G215e0O44Glvb7Dp0snVMS3k2jf7dCLiXOcrlehhwnFydHs1PrIzcXlKs6DViHf5p4e8b2Vc0Genwt0Wp67atE6zgaWPhO99zHECsylDaoNIGi6L4SOWdT6OB4mQqMnCLQJFWHQspuuV6xgykb84E7vfdSXVLGE0TLdhC4vIpwyDgqzpCKPrBLbHhYo4TQg5kkQEmWN3reSGUeTpTHlrXpQL9S/QnaIrjNIiRVkLdVsNywXVqL/QKlXzb2q5zmOvqE5QXkMJr0JIeOoxNyeNFc677WPseo6qv26TgaOgV2Tx7zqqUset7AxG8vo/IpYveySp+nnTKEFAlBwodkptaIa73GLEyZ9DucQDZ15Hs9JeGOo4EFaQisMfoX3oGhqEyPrcpEnStWazZK1V9RLNUXodtzJwjOuHnyf/WTutWOfbc5YjgZu8d2MK+r6qj9AeWzV9W2o6FF3N1YCHSPq0X1QlbU2if4v/6KCrfV1wyK7tWXNbwPPwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-16T07:59:43.834Z" agent="5.0 (Windows)" etag="QbRRQOCwAzDm9ejSoSUf" version="15.9.6" type="github">
+  <diagram id="Slg3FtTxpxhqsiVsLoyU" name="Page-1">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qhGrgSK1FfQ_1lou3dPV-7" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="480" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-2" value="&lt;u&gt;:Total Health&lt;br&gt;&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="620" as="sourcePoint" />
+            <mxPoint x="165" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="620" as="sourcePoint" />
+            <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-5" value="&lt;font face=&quot;Georgia&quot;&gt;Counts Screen Displays&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="170" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-6" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-7" value="&lt;font face=&quot;Georgia&quot;&gt;goToCountsScreen()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7VG_rD7OWRGA1ghs4LkU-6" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint" />
+            <mxPoint x="650" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-9" value="onClickEdit()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7VG_rD7OWRGA1ghs4LkU-8" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-10" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Prompts the user to type in steps manually&lt;/span&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="460" as="sourcePoint" />
+            <mxPoint x="170" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-12" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="440" as="sourcePoint" />
+            <mxPoint x="650" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-13" value="enterStepCount(int)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7VG_rD7OWRGA1ghs4LkU-12" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-16" value="" style="endArrow=open;html=1;rounded=0;fontFamily=Georgia;endFill=0;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="550" as="sourcePoint" />
+            <mxPoint x="170" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-22" value="Step Count Updated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7VG_rD7OWRGA1ghs4LkU-16" vertex="1" connectable="0">
+          <mxGeometry x="0.175" y="-2" relative="1" as="geometry">
+            <mxPoint x="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-20" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="490" as="sourcePoint" />
+            <mxPoint x="650" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7VG_rD7OWRGA1ghs4LkU-21" value="onClickConfirm()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7VG_rD7OWRGA1ghs4LkU-20" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qhGrgSK1FfQ_1lou3dPV-2" value="&lt;font style=&quot;font-size: 23px&quot;&gt;Manually Adjust Step Count&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="80" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qhGrgSK1FfQ_1lou3dPV-10" value="&lt;font style=&quot;font-size: 10px&quot; face=&quot;Georgia&quot;&gt;[getManualSteps() == null] &lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="175" y="380" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
