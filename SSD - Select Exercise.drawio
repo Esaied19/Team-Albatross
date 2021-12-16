@@ -1,1 +1,119 @@
-<mxfile host="Electron" modified="2021-12-07T02:28:15.747Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.8.7 Chrome/91.0.4472.164 Electron/13.6.2 Safari/537.36" etag="m8lidt-vsoAv6FZvnisR" version="15.8.7" type="device"><diagram id="G--hXP7yS7DDdUEeUEIJ" name="Page-1">7Vldc5s4FP01zOw+uMOHIc6jiZP0oZ1JJ93ZZxnJWFuBqCQSu79+JZAAGWMnKaTbbDKZBK6uruCce66uZSe4yna3DBTbzxQi4vgu3DnByvF9z/V9R/26cF9bFq5XG1KGoXZqDff4BzIztbXEEHHLUVBKBC5sY0LzHCXCsgHG6KPttqHEXrUAKeoZ7hNA+ta/MRRb/Rah29o/Ipxuzcqeq0cyYJy1gW8BpI8dU3DtBFeMUlFfZbsrRBR4Bpd63s3AaPNgDOXiKRPi/fc4xF/jLx/dmCzT9e3s9p+ZjvIASKlf+C+OmH5gsTcoyGcv1GWZkWUiKHOC+AExgSVOn8AakTvKscA0ly5rKgTNOg5LglM1IGghrVuREXnjyUu9tHRDu8F38hqkZIohmiHB9tLFTDA86OzyAn3/2HJlTNsOTZG2AZ0daRO5BVBeaAyfgaffw9PxIyJXjUt5kaoLJ1je77lAmRmRC7WDh8iPi1fkHuA17+PleUcAC6cCLDgC2AEEKIdLpWR5l9NcGmMI+BZBDUsHIUbLHFYDboMXgj2Bn0Wrg0Z4AgyGCBD4wQ5/DCG9wh3FcuE2eaPQIiNcHIDMackSpGd1lX0mUFNyTCABWIpEL1BFWPPaL+dw/v/lMArnNoeHleWpHMpAH+Zy8zA/nq3Ty9dlNBwsYxtaPfUGJPVA9L1UG1gsF2UpBq3BVLTrHWIJ5khOuk8YQrlam8s/K8wLAvaSah16zdoq2FTGer2B4tjJKlrIyEEsLTeYmFySd7qj8PzJs8yLxkopu0b7h9w/uSxcnAk0cRJFzyoLa0KTb4d1oaXT/V3p7LEwf3GFOBNoYjovxqsJKf1KTV2oi8Iffz5Z85LWque0MwDoLjORFKNuf2razwxDqGLEDHH8A6yreCpbCgVYBWEYO+HqVKOlP2ToyU6zz3Yza1gKg12Z+8ENFr5N7s/lnnGhmw1Hk2TD4l3cR8QdjCXuXqCJxX3Zo5PmVwQn3+5IyZU434IKF29Oheaj2siNGsFcDLZp702Z0udYTVkv0MRC9/onPoZYXoDcotJkiKJ7xivOltLBC4qd/FdRJMVI1HGQsjt+UH92aQariY/6U5dyySnLAGnGpbLFDKKEMlCfHtU+ObIjbECGyd4sEoGsqAaDYK5KDsMq4oHVDqBfqfsEJ7L/U539q37e1wj9Z/O+LWS+p89VXkEK8xcfW1ycCTQghVctsP57n3OMqrH6nF6gqctf/7xRNzpLCE0NiEshaP5Wup46hd9W2/O8o4WEAM5xckptapu40dvMyrRIv8Pxoy2nMBipFvcCTa3L4dMFiB+GN+mqRU0YAsLaqDtzfoWIT2bTqNo+e7BwcWlre/aT4taR/Ut7xku0Lm/bbz9r9/Y75OD6Xw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-16T18:06:42.038Z" agent="5.0 (Windows)" etag="3WlCVBwHzW4chr_kVi4p" version="15.9.6" type="github">
+  <diagram id="G--hXP7yS7DDdUEeUEIJ" name="Page-1">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-2" value="&lt;u&gt;:Total Health&lt;br&gt;&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="720" as="sourcePoint" />
+            <mxPoint x="165" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="720" as="sourcePoint" />
+            <mxPoint x="650.4100000000001" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-5" value="Exercise Buttons" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="sourcePoint" />
+            <mxPoint x="170" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-6" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="sourcePoint" />
+            <mxPoint x="650" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-7" value="&lt;font face=&quot;Georgia&quot;&gt;goToExerciseScreen()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ByqB5iTBQH0BlAgbG-Gj-6" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-8" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="510" as="sourcePoint" />
+            <mxPoint x="650" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-9" value="onClickPlus()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ByqB5iTBQH0BlAgbG-Gj-8" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-10" value="&lt;font face=&quot;Georgia&quot;&gt;Exercise list is Displayed&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="540" as="sourcePoint" />
+            <mxPoint x="165" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-12" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="580" as="sourcePoint" />
+            <mxPoint x="650" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ByqB5iTBQH0BlAgbG-Gj-13" value="onClickAddExerciseButton()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ByqB5iTBQH0BlAgbG-Gj-12" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-1" value="&lt;font style=&quot;font-size: 26px&quot;&gt;Add Exercise&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="110" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;opt&lt;/font&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=26;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="300" width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-3" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="350" as="sourcePoint" />
+            <mxPoint x="650" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-4" value="onClickCalendar()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B6CltYMv_PGOW55Wy9w6-3">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-5" value="&lt;font style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Prompts User to Select a Date&lt;/span&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="370" as="sourcePoint" />
+            <mxPoint x="170" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-6" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="400" as="sourcePoint" />
+            <mxPoint x="650" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-7" value="selectDate()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B6CltYMv_PGOW55Wy9w6-6">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-8" value="Exercise Buttons from Selected Date" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="420" as="sourcePoint" />
+            <mxPoint x="170" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B6CltYMv_PGOW55Wy9w6-9" value="New Exercise Button" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="620" as="sourcePoint" />
+            <mxPoint x="165" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
