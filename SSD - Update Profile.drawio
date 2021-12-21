@@ -1,1 +1,102 @@
-<mxfile host="Electron" modified="2021-12-07T01:43:52.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.8.7 Chrome/91.0.4472.164 Electron/13.6.2 Safari/537.36" etag="DpuGXK7bK-vYdstCk40Z" version="15.8.7" type="device"><diagram id="T5btmAhWAxmkwAmO1LX6" name="Page-1">7Vrbbts4EP0aAd2HFLpYSvxoO8kWixYbrJv2mRYpiShFain61q9fUiJ1teNcpLTxJggSajgcSmfmDEdjW94i3f3JQZZ8YRARy7XhzvKuLdd1bNe11K8N96XkynZKQcwx1Eq1YIl/IrNSS9cYorylKBgjAmdtYcgoRaFoyQDnbNtWixhp75qBGPUEyxCQvvQ7hiLRT+HbtfwTwnFidnZsPZMCo6wFeQIg2zZE3o3lLThjohyluwUiCjyDS7nu9shsdWMcUfGYBf98/XID7GgTkSD8Fmbwsxv9daG9swFkrR/4Pkdc37DYGxTkvWdquE7JLBSMW958g7jAEqfPYIXIHcuxwIxKlRUTgqUNhRnBsZoQLJPSRKREXjhyqLeWamh39JmcCikZYoilSPC9VDELjB90dDmevt7WvjKipOGmQMuAjo64slwDKAcawyfg6fXwtNyAyF3nazmI1cDyZst9LlBqZuRG9WQX+WHxCuwOXpM+Xo5zADB/LMAmBwDrQIAonCkmyyvKqBTOIcgTBDUsDYQ4W1NYTNgVXgj2CH4SrQYa/gNgcESAwJu2+UMI6R3uGJYb18Eb+C1nBG4H5JyteYj0qiazTxhyu4YE4DESPUOFw6rHfr4P/f+vDwN/MowPpaGPE3l4mB+nzdPp63o0OJrGIlbcdQTCciL4d60OsLnclMcY1AKT0e44i3BRFCxDjhCVg2ucZwTspZO10RWv81+VE8udjqTFRjyxTBr15lJyi4mJInmlawnHHT2+nGCoYGpnZ7fr9UcnhMsThkYOn8snJYQVYeGPbkao3Wm/VXf2vDB5dm44YWhkd14Nlw1i9pUVGYGgMh18+OPRlJdeLYrNdgAAXV6G0sOoWZiaujPFECobc45y/BOsCnsqWDKFV4GgP7f864cqLP12oRdb1QHbDKzjTDhajtkfbe/Kbfv2ZaFnVFgU5WiUYJi+c/sAt72huN0zNDK3TbHf8GdIcPjjb7pEQmAa54qh50DF6dlR0XGGS8xLhApvqxvnSP6F3SLtvSRT9ByqJOsZGpvn/U6PcWyeAdpypYkN5e6LvPDZTCo4XraT/woXSRoS1QZScsv1yneWarJYuNVvW0qFMp4CUs1LTosLiELGQdk1KnUoaluIQIrJ3mwSgDQrJj1vopINx8piR9o2oB+peQfduNfvIlLjnuZgo8Ldvs8gEMVIlyoNCpRg/bYUqLOZ6+he1CuwYnI1ECt6ho6w4lWz7KGe3nvFMxmq4ukZGjsT9luOCGKhqX4u1U4ZtedV7jytrRASkOc4fIhg6pC41YfMtSmN3kLTsc0gv/txxnPTb8/Q2FQ83lmAeFOVpvpYrg5je5EAGiNVq2L1J0/YljbO6MbaX0HmB6NqUI6f7C5cTtscv3ghybVld9peMSLn39sNB4n6/I8ZThgamfFmu4Y/GV2ohoNieclreDZn8FtqOcjL+rsIpXr9jQ7v5j8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-21T15:57:51.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="YS_rooBmDtPWt06-pgZ3" version="16.0.0" type="github">
+  <diagram id="T5btmAhWAxmkwAmO1LX6" name="Page-1">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-3" value="&lt;u&gt;:Total Health&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="560" as="sourcePoint" />
+            <mxPoint x="165" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="560" as="sourcePoint" />
+            <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-6" value="&lt;font face=&quot;Georgia&quot;&gt;Profiel Screen Displayed&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="270" as="sourcePoint" />
+            <mxPoint x="170" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="250" as="sourcePoint" />
+            <mxPoint x="650" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-8" value="&lt;font face=&quot;Georgia&quot;&gt;goToProfileScreen()&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RTMEa0fvfl6cVcpdL2fJ-7" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="320" as="sourcePoint" />
+            <mxPoint x="650" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-10" value="clickOnSettings()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RTMEa0fvfl6cVcpdL2fJ-9" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-11" value="&lt;font face=&quot;Georgia&quot;&gt;Seetings are displayed&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="340" as="sourcePoint" />
+            <mxPoint x="170" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-12" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Display Unsaved Updated Profile&lt;/span&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="0.0213" width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="420" as="sourcePoint" />
+            <mxPoint x="170" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-13" value="Click" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="400" as="sourcePoint" />
+            <mxPoint x="650" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-14" value="clickOnEdit()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RTMEa0fvfl6cVcpdL2fJ-13" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Georgia;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="490" as="sourcePoint" />
+            <mxPoint x="170" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-18" value="&lt;div&gt;Saved Profile Changes are shown&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Georgia;" parent="RTMEa0fvfl6cVcpdL2fJ-17" vertex="1" connectable="0">
+          <mxGeometry x="0.0792" y="-2" relative="1" as="geometry">
+            <mxPoint x="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-19" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="470" as="sourcePoint" />
+            <mxPoint x="650" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-20" value="clickOnSave" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RTMEa0fvfl6cVcpdL2fJ-19" vertex="1" connectable="0">
+          <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
