@@ -1,1 +1,66 @@
-<mxfile host="Electron" modified="2021-12-21T03:11:12.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/16.0.0 Chrome/91.0.4472.164 Electron/13.6.3 Safari/537.36" etag="5wuE_beGViMvku0YFZoq" version="16.0.0" type="device"><diagram id="1jG6YhnEVMwbhHCZkinu" name="Page-1">3Vldb9owFP01SNvDpnwQaB9HoJu0VmOjUrdHF98mbk2cOYbAfv2uE4cQDFXXloXyhH38fc69xwY6fjhbfpYkja8EBd7xHLrs+MOO57mO4+OHRlYG8bxuiUSSUYPVwIT9gWqoQeeMQtboqITgiqVNcCqSBKaqgREpRd7sdid4c9WURGABkynhNnrDqIpL9CxwavwLsCiuVsYjly0zUnU2QBYTKvINyB91/FAKocrSbBkC1+xVvJTjLva0rjcmIVFPGZCFl/fD3+R7PljkF3CzGAdf6QcjT6ZW1YGB4vlNVUgVi0gkhI9qdCDFPKGgZ3WwVve5FCJF0EXwHpRaGTHJXAmEYjXjphU3LFc/zfii8ktXPgZVdbjcbByuTK3cq97gXgoMlIm5nMIj565CicgI1CP9vLVQGOIgZoD7wXESOFFs0dwHMaEWrfvVamDBCPIP4ph5F4TPzUqWWhhUqS7mZJUKplkYZA+gprGh7I5xXqmZCa6XG2SlLj0sFmNAjhZIYGbUKbDiKMGgEwzNJKHgQiKYiKSIAcBZyG0xr1PEhCJqo56CZEgC6CFT0GuMa2SQJSS9FuNyw8Wi5qQgFSwfF9cWw1iLX+VkXudp10DxRopW2KvL1Wsjl14xJ14a62ZoKavnGB39c8N3JVN/i/8yB82oLQnW23i+Kp6VRDeEKZZExW0g9dURkyTCO2ZbvVobTXQeMwWTlBQU5njb7dLheQFcDehvMdW1A9r1dkR071ARHVjcfUvGUqAfQMjZ9OHde4s0PL5qMpMpKR5gyz92WArhLErWdoGAJpPhTfzJNMwYpUXS7JKimUivoMYTxOjt0MI/lBb9HVqMKFMnL4TvHpkS52/c588O4vO9bZn+s8+fWfkRFr6OmLEsLE2QY7T+9r3euhVb9/pKvg0CzcV4RSicssEE/pEZjGu/89+Ww7h7CH+hxZx57VqMa38h+wGErorfJDQvZAFH9J60HLl9j/EtAkUyQdZO/hHTD47NY4K37jHdg3iM67RtMt09D5lMv18wV2jrxmL5cPvG0rNIU+Q25CI76ZfL+dG5iv0tdbRkOr2uyW3rcWvn9gEDF6v1b/ulOdR/kfijvw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-21T06:43:04.895Z" agent="5.0 (Windows)" etag="02wpbrz8eZQBB6xELqvx" version="15.9.6" type="github">
+  <diagram id="1jG6YhnEVMwbhHCZkinu" name="Page-1">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="sCLjDqaQwBvwFeWvP5Kd-1" target="sCLjDqaQwBvwFeWvP5Kd-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-1" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+          <mxGeometry y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sCLjDqaQwBvwFeWvP5Kd-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-2" value="Unedited Profile" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-5" value="OnProfileClick()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-7" value="OnEditClick()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sCLjDqaQwBvwFeWvP5Kd-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-8" value="Change Profile Settings" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-10" value="editProfile()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sCLjDqaQwBvwFeWvP5Kd-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-11" value="Ready to save changes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-13" value="onSaveClick()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="750" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sCLjDqaQwBvwFeWvP5Kd-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-14" value="Changes Saved" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sCLjDqaQwBvwFeWvP5Kd-16" value="tabClose()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oj9lmapepEcUcd6Swkja-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="355" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
