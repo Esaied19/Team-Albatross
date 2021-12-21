@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T16:32:06.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uTVAGy7AUNz4IPI2acFj" version="16.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T20:07:30.645Z" agent="5.0 (Windows)" etag="RwrbLKdJCJUzYarDB_Br" version="16.0.0" type="github">
   <diagram id="T5btmAhWAxmkwAmO1LX6" name="Page-1">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,13 +22,13 @@
             <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-6" value="&lt;font face=&quot;Georgia&quot;&gt;Profiel Screen Displayed&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-6" value="&lt;font face=&quot;Georgia&quot;&gt;Profile Screen Displayed&lt;br&gt;&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="270" as="sourcePoint" />
             <mxPoint x="170" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-7" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="250" as="sourcePoint" />
             <mxPoint x="650" y="250" as="targetPoint" />
@@ -39,7 +39,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-9" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="320" as="sourcePoint" />
             <mxPoint x="650" y="320" as="targetPoint" />
@@ -50,31 +50,31 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-11" value="&lt;font face=&quot;Georgia&quot;&gt;Seetings are displayed&lt;/font&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-11" value="Prompts User to Update Profile" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="340" as="sourcePoint" />
             <mxPoint x="170" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-12" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Display Unsaved Updated Profile&lt;/span&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-12" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Display Unsaved Updated Profile&lt;/span&gt;" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry x="0.0213" width="160" relative="1" as="geometry">
             <mxPoint x="650" y="420" as="sourcePoint" />
             <mxPoint x="170" y="420" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-13" value="Click" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-13" value="Click" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="400" as="sourcePoint" />
             <mxPoint x="650" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-14" value="clickOnEdit()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RTMEa0fvfl6cVcpdL2fJ-13" vertex="1" connectable="0">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-14" value="clickOnEdit(email, password, name, age, sex, height, weight, pic, phone_number)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RTMEa0fvfl6cVcpdL2fJ-13" vertex="1" connectable="0">
           <mxGeometry x="0.0382" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Georgia;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-17" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Georgia;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="490" as="sourcePoint" />
             <mxPoint x="170" y="490" as="targetPoint" />
@@ -85,7 +85,7 @@
             <mxPoint x="29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-19" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="RTMEa0fvfl6cVcpdL2fJ-19" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="470" as="sourcePoint" />
             <mxPoint x="650" y="470" as="targetPoint" />
@@ -96,7 +96,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PvZRON7MSZXrxfhsR3tZ-1" value="Update Profile" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="PvZRON7MSZXrxfhsR3tZ-1" value="Update Profile" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="350" y="140" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
