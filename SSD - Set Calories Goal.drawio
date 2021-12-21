@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T21:53:35.170Z" agent="5.0 (Windows)" etag="4Egx6xZQdyR7dhg2VQMz" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T16:22:32.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VUCdNVkIvnV6ukGUVDMW" version="16.0.0" type="github">
   <diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">
-    <mxGraphModel dx="1425" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value="&lt;u&gt;:System&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value="&lt;u&gt;:Total Health&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
@@ -22,56 +22,59 @@
             <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-1" value="Calories Tab is displayed" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-1" value="Calories Tab is displayed" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="650" y="290" as="sourcePoint" />
-            <mxPoint x="170" y="290" as="targetPoint" />
+            <mxPoint x="650" y="280" as="sourcePoint" />
+            <mxPoint x="170" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-2" value="goToCaloriesTab()" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-2" value="goToCaloriesTab()" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="250" as="sourcePoint" />
             <mxPoint x="650" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="650" y="360" as="sourcePoint" />
-            <mxPoint x="170" y="360" as="targetPoint" />
+            <mxPoint x="650" y="350" as="sourcePoint" />
+            <mxPoint x="170" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-13" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Textfield Prompt Appears&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UH5xHTsmPyCup4P5oDmk-3">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-13" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt;Edit Screen displays&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UH5xHTsmPyCup4P5oDmk-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0804" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-7" value="editCalorieGoal()" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-7" value="onClickEdit" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="330" as="sourcePoint" />
             <mxPoint x="650" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="170" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="390" as="targetPoint" />
+            <mxPoint x="170" y="410" as="sourcePoint" />
+            <mxPoint x="650" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-15" value="setNewCalorieGoal(newCalorieGoal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UH5xHTsmPyCup4P5oDmk-8">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-15" value="setNewCalorieGoal(newCalorieGoal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UH5xHTsmPyCup4P5oDmk-8" vertex="1" connectable="0">
           <mxGeometry x="0.0256" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-9" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="430" as="sourcePoint" />
             <mxPoint x="650" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH5xHTsmPyCup4P5oDmk-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;*[calorie goal isn&#39;t healthy] setNewCalorieGoal(newCalorieGoal)  := &lt;/font&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;confirmCalorieGoal(calorieGoal) &lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="UH5xHTsmPyCup4P5oDmk-9">
+        <mxCell id="UH5xHTsmPyCup4P5oDmk-16" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;br&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;*[calorie goal isn&#39;t healthy] setNewCalorieGoal(newCalorieGoal)  := &lt;/font&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;confirmCalorieGoal(calorieGoal) &lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="UH5xHTsmPyCup4P5oDmk-9" vertex="1" connectable="0">
           <mxGeometry x="0.0232" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pMAt3XqVse11qFLO4Cyt-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Set Calories Goal&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
