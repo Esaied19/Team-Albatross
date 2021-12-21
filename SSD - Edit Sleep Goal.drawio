@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T22:32:50.468Z" agent="5.0 (Windows)" etag="4pqFImJdwt-iJ_4k_WN0" version="15.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T16:24:17.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LywcMAtJjbzXGeRYvjFa" version="16.0.0" type="github">
   <diagram id="fsKUEpt00cAQXqf5Vs6Y" name="Page-1">
-    <mxGraphModel dx="1425" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value="&lt;u&gt;:System&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
+        <mxCell id="f-GdbEtR7hPHFlpdBjNb-3" value="&lt;u&gt;:Total Health&lt;/u&gt;" style="html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="140" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="f-GdbEtR7hPHFlpdBjNb-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
@@ -22,82 +22,85 @@
             <mxPoint x="654.4100000000001" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-1" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="240" as="sourcePoint" />
             <mxPoint x="650" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-2" value="goToSleepTab()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-2" value="goToSleepTab()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="frDQ_7HupMQNFZRBvEdE-1" vertex="1" connectable="0">
           <mxGeometry x="-0.1125" y="-2" relative="1" as="geometry">
             <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-3" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-3" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="280" as="sourcePoint" />
             <mxPoint x="170" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-4" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt; &#39;Sleep&#39; tab is displayed&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-3">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-4" value="&lt;span style=&quot;font-size: 13px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;arial&amp;#34; ; font-style: normal&quot;&gt; &#39;Sleep&#39; tab is displayed&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="frDQ_7HupMQNFZRBvEdE-3" vertex="1" connectable="0">
           <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
             <mxPoint x="-28" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-5" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="320" as="sourcePoint" />
             <mxPoint x="650" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-6" value="edit()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-5">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-6" value="edit()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="frDQ_7HupMQNFZRBvEdE-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1125" y="-2" relative="1" as="geometry">
             <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-7" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="360" as="sourcePoint" />
             <mxPoint x="170" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-8" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Prompts for new Sleep goal and Change Time Slept&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-7">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-8" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-style: normal&quot;&gt;Prompts for new Sleep goal and Change Time Slept&lt;/span&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="frDQ_7HupMQNFZRBvEdE-7" vertex="1" connectable="0">
           <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
             <mxPoint x="-28" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="400" as="sourcePoint" />
             <mxPoint x="650" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-10" value="setSleepGoal(newSleepGoal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-9">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-10" value="setSleepGoal(newSleepGoal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="frDQ_7HupMQNFZRBvEdE-9" vertex="1" connectable="0">
           <mxGeometry x="-0.1125" y="-2" relative="1" as="geometry">
             <mxPoint x="27" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="470" as="sourcePoint" />
             <mxPoint x="170" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-12" value="sleep goal updated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-11">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-12" value="sleep goal updated" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="frDQ_7HupMQNFZRBvEdE-11" vertex="1" connectable="0">
           <mxGeometry x="-0.08" y="2" relative="1" as="geometry">
             <mxPoint x="-28" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-13" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="430" as="sourcePoint" />
             <mxPoint x="650" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frDQ_7HupMQNFZRBvEdE-14" value="confirmNewSleepGoal(newSleepGoal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="frDQ_7HupMQNFZRBvEdE-13">
+        <mxCell id="frDQ_7HupMQNFZRBvEdE-14" value="confirmNewSleepGoal(newSleepGoal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="frDQ_7HupMQNFZRBvEdE-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1125" y="-2" relative="1" as="geometry">
             <mxPoint x="27" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0U1GS04Joy2eR4S2l7Uf-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Edit Sleep Goal&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
