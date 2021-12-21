@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T06:42:49.117Z" agent="5.0 (Windows)" etag="4iBd7mtXeWCzxW6VjMlk" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T07:22:43.602Z" agent="5.0 (Windows)" etag="5F32pkYPS8yRHdOpy5js" version="16.0.0" type="github">
   <diagram id="9ZfrWXQ-zo-7EMHKX_rf" name="Page-1">
     <mxGraphModel dx="1038" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
             <mxPoint x="200" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzmjhRW2WY2DTThj0KtT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Fc1_IcPx7h7VtZE7fbSr-3" target="KzmjhRW2WY2DTThj0KtT-1">
+        <mxCell id="KzmjhRW2WY2DTThj0KtT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Fc1_IcPx7h7VtZE7fbSr-3" target="KzmjhRW2WY2DTThj0KtT-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fc1_IcPx7h7VtZE7fbSr-3" value="Stopwatch not on&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Fc1_IcPx7h7VtZE7fbSr-3" value="Stopwatch Paused" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="425" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fc1_IcPx7h7VtZE7fbSr-4" value="onExerciseTabClick()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -101,7 +101,7 @@
         <mxCell id="Fc1_IcPx7h7VtZE7fbSr-27" value="onStopWatchButtonClick()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="760" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KzmjhRW2WY2DTThj0KtT-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="KzmjhRW2WY2DTThj0KtT-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
